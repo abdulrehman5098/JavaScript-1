@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 📫 How to reach me **https://www.facebook.com/profile.php?id=100062756365657&mibextid=ZbWKwL**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100062756365657&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100062756365657&mibextid=zbwkwl" height="30" width="40" /></a>
